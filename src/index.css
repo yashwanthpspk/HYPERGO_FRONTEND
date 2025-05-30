@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Replace any @import or reference to @hypergo/react with @heroui/react */
+/* For example, if there was something like: */
+/* @import '@hypergo/react/styles.css'; */
+/* It should be: */
+/* @import '@heroui/react/styles.css'; */
